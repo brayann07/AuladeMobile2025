@@ -5,7 +5,7 @@ export default function Home(){
     return(
         <View style={styles.container}>
             <ImageBackground style={{flex:1,width:'100%',height:'100%'}}source={ImagemFundo}>
-            <Text style={styles.textocima}>Bem vindo a padaria Satc!<br></br>Aqui tem pães fresquinhos e bolos para qualquer hora do dia!</Text>
+            <Text style={styles.textocima}>Bem vindo a Satc!<br></br>Aqui tem pães fresquinhos e bolos para qualquer hora do dia!</Text>
 
             <ImagensPadaria/>
 
